@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Dianneth 🪄
+
+## 🏗️ I'm working on sprucing the place up 🚧
 
 <!--
 **same-difference/same-difference** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
