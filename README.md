@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/same-difference/personal-portfolio/blob/main/public/github-cover.png" alt="Hi, I'm Dianneth 👋" /></p>
+<p align="center"><img src="https://github.com/same-difference/same-difference/blob/main/github-cover.png" alt="Hi, I'm Dianneth 👋" /></p>
 <br />
 <br />
 <img src="https://streak-stats.demolab.com?user=same-difference&theme=duskfox&mode=weekly&hide_border=true" alt="GitHub Streak" align="right"/>
