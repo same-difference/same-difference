@@ -9,5 +9,6 @@
 <br />
 <br />
 <h2>Check Out Some Of My Work 🧠</h2>
-<p align="center"><img src="https://myreadme.vercel.app/api/embed/same-difference?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="GitHub Reimagined ReadMe" /></p>
+<p align="center">
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=same-difference&theme=catppuccin_mocha&size_weight=0.5&count_weight=0.5&layout=compact" alt="Top Languages" align="center"/></p>
 <p align="center"><sub>Profile Splash Image Originally From <a href="https://twitter.com/IamCryB0rg/status/1727243311541543295">Here</a></sub></p>
