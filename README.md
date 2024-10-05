@@ -10,6 +10,6 @@
 <br />
 <h2>Check Out Some Of My Skills 🧠</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=same-difference&theme=catppuccin_mocha&size_weight=0.5&count_weight=0.5&layout=compact" alt="Top Languages" align="left"/>
-<p><img src="https://skillicons.dev/icons?i=html,css,php,js,ts,react,tailwind,bootstrap,npm,nodejs,express,nextjs,redux,mongodb,mysql,vite,vercel,figma,docker,git,github,linux,c,cs,java,py,vscode&perline=12" alt="HTML, CSS, PHP, JavaScript, TypeScript, React, Tailwind, Bootstrap, NPM, Node.js, Express.js, Next.js, Redux, MongoDB, MySQL, Vite, Vercel, Figma, Docker, Git, GitHub, Linux, C, C#, Java, Python, Visual Studio Code"/>
+<p><img src="https://skillicons.dev/icons?i=html,css,php,js,ts,react,tailwind,bootstrap,npm,nodejs,express,nextjs,redux,mongodb,mysql,vite,vercel,figma,docker,git,github,linux,c,cs,java,py,vscode&perline=8" alt="HTML, CSS, PHP, JavaScript, TypeScript, React, Tailwind, Bootstrap, NPM, Node.js, Express.js, Next.js, Redux, MongoDB, MySQL, Vite, Vercel, Figma, Docker, Git, GitHub, Linux, C, C#, Java, Python, Visual Studio Code"/>
 </p>
 <p align="left"><sub>Profile Splash Image Originally From <a href="https://twitter.com/IamCryB0rg/status/1727243311541543295">Here</a></sub></p>
