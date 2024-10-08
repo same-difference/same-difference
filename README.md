@@ -2,7 +2,7 @@
 <br />
 <br />
 <img src="https://streak-stats.demolab.com?user=same-difference&theme=duskfox&mode=weekly&hide_border=true" alt="GitHub Streak" align="right"/>
-<h2>I am a Full-Stack Developer 🌐</h2>
+<h2>I am a Developer 🖥️</h2>
 <h3>Attending the University of Central Florida 🐉</h3>
 <h3>Graduating May 2025 🌻</h3>
 <br />
